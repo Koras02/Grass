@@ -22,3 +22,4 @@
 ## 아이디어 출처
 
 - [potados 블로그- 1일 1커밋을 위한 약간의 트릭](https://blog.potados.com/dev/gardening-github/)
+# git-auto-green
